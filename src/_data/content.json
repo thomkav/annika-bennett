@@ -1,0 +1,78 @@
+{
+  "siteTitle": "Annika Bennett",
+  "navigation": [
+    { "label": "About", "href": "#about" },
+    { "label": "Work", "href": "#work" },
+    { "label": "Experience", "href": "#experience" },
+    { "label": "City of Asylum PDX", "href": "#coapdx" },
+    { "label": "Contact", "href": "#contact" }
+  ],
+  "social": {
+    "instagram": "#",
+    "email": "mailto:contact@annikabennett.com",
+    "linkedin": "#"
+  },
+  "hero": {
+    "name": "ANNIKA BENNETT",
+    "tagline": "Literary Manager, Grant Writer & Playwright",
+    "statement": "Dedicated to advancing the artistic health and vitality of the Pacific Northwest."
+  },
+  "about": {
+    "bio": "Annika Bennett is a literary manager, grant writer, and playwright dedicated to advancing the artistic health and vitality of the Pacific Northwest. As a student at Princeton University, she received the Page Prize for Outstanding Achievement in the Creative Arts.",
+    "background": "She served as the Literary Manager of Albatross Theatre Lab and Book-It Repertory Theatre in Seattle, helping champion new work, up-and-coming writers, and theatrical adaptations of great works of classic and contemporary literature, and has worked in dramaturgy for companies including the Goodman Theatre and Seattle Rep.",
+    "current": "Annika has spent the last few years as part of a small team overseeing the implementation and administration of the Community Accelerator Grant, a groundbreaking trust-based philanthropy grantmaking program that has distributed $30M in funding to arts and cultural organizations across Washington State."
+  },
+  "work": {
+    "title": "Creative Work",
+    "playwriting": {
+      "heading": "PLAYWRITING",
+      "description": "Playwright with a focus on new works and theatrical exploration."
+    },
+    "literary": {
+      "heading": "LITERARY MANAGEMENT",
+      "organizations": [
+        "Albatross Theatre Lab - Literary Manager",
+        "Book-It Repertory Theatre - Literary Manager"
+      ],
+      "description": "Champion of new work, up-and-coming writers, and theatrical adaptations of classic and contemporary literature."
+    }
+  },
+  "experience": {
+    "title": "Professional Experience",
+    "roles": [
+      {
+        "title": "Community Accelerator Grant - Administration",
+        "organization": "Trust-based Philanthropy Initiative",
+        "description": "Part of a small team overseeing implementation and administration of a groundbreaking program that has distributed $30M in funding to arts and cultural organizations across Washington State.",
+        "impact": "Transformative support for Pacific Northwest arts communities"
+      },
+      {
+        "title": "Literary Manager",
+        "organization": "Albatross Theatre Lab & Book-It Repertory Theatre",
+        "description": "Championed new work, supported emerging writers, and developed theatrical adaptations of literature."
+      },
+      {
+        "title": "Dramaturg",
+        "organization": "Goodman Theatre, Seattle Rep, and others",
+        "description": "Provided dramaturgy services for professional theater companies."
+      },
+      {
+        "title": "Page Prize for Outstanding Achievement in the Creative Arts",
+        "organization": "Princeton University",
+        "description": "Recognized for exceptional creative achievement as a student."
+      }
+    ]
+  },
+  "cityOfAsylum": {
+    "title": "City of Asylum PDX",
+    "role": "Co-Founding Director",
+    "description": "Co-founder of City of Asylum PDX, an Oregon-based nonprofit offering support and sanctuary to writers living in exile due to the political nature of their work. Part of the International Cities of Refuge Network (ICORN).",
+    "link": "https://cityofasylumpdx.org",
+    "quote": "We wanted to combine our politics with our craft in our home state where our earliest creative impulses began."
+  },
+  "contact": {
+    "title": "Get in touch",
+    "message": "For professional inquiries, collaboration opportunities, or general questions.",
+    "button": "Contact"
+  }
+}
